@@ -1,0 +1,6 @@
+{
+	"paths" : [ // it has to be the full path including the drive letter because it compares it with file_name()
+		"C:\\wamp\\www\\test",
+		"C:\\wamp\\www\\playground"
+	]
+}
